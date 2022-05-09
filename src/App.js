@@ -1,4 +1,3 @@
-import './components/CategoryItem/CategoryItem';
 import CategoriesDirectory
   from './components/CategoriesDirectory/CategoriesDirectory';
 
